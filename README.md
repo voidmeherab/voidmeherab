@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/voidmeherab/voidmeherab/main/avatar.jpg" alt="Meherab" width="160" height="160" style="border-radius: 50%; border: 3px solid #00c2cb; box-shadow: 0 0 25px rgba(0, 194, 203, 0.4);" />
-</p>
-
-<h1 align="center">Hey there, I'm Meherab 👋</h1>
+# Hey there, I'm Meherab 👋
 
 <p align="center">
   <a href="https://github.com/voidmeherab">

@@ -1,4 +1,8 @@
-# Hey there, I'm Meherab 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/voidmeherab/voidmeherab/main/avatar.jpg" alt="Meherab" width="160" height="160" style="border-radius: 50%; border: 3px solid #00c2cb; box-shadow: 0 0 25px rgba(0, 194, 203, 0.4);" />
+</p>
+
+<h1 align="center">Hey there, I'm Meherab 👋</h1>
 
 <p align="center">
   <a href="https://github.com/voidmeherab">
@@ -17,7 +21,7 @@
 ### 🚀 About Me
 
 - 💻 Passionate **Software Engineer & Desktop Application Developer**.
-- 🛠️ Creator and maintainer of [**QuickFind**](https://github.com/voidmeherab/QuickFind) — a lightweight, animated Windows application launcher with instant search and zero taskbar footprint.
+- 🛠️ Creator and maintainer of [**QuickFind**](https://github.com/voidmeherab/QuickFind) — a modern, ultra-lightweight Windows application launcher with instant search and zero taskbar footprint.
 - ⚡ Focused on building high-performance, low-latency, and beautifully designed user experiences.
 - 🔭 Constantly exploring operating system internals, Win32 APIs, modern UI frameworks, and automation.
 - 💬 Ask me about: **Python, Qt / PySide6, Windows Internals, C#, C++, Desktop Automation**.
